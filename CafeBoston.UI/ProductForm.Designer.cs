@@ -82,7 +82,7 @@
             this.dgvProducts.Location = new System.Drawing.Point(12, 57);
             this.dgvProducts.Name = "dgvProducts";
             this.dgvProducts.RowTemplate.Height = 25;
-            this.dgvProducts.Size = new System.Drawing.Size(517, 364);
+            this.dgvProducts.Size = new System.Drawing.Size(700, 430);
             this.dgvProducts.TabIndex = 5;
             // 
             // nudUnitPrice
@@ -102,7 +102,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(541, 433);
+            this.ClientSize = new System.Drawing.Size(724, 499);
             this.Controls.Add(this.nudUnitPrice);
             this.Controls.Add(this.dgvProducts);
             this.Controls.Add(this.txtProductName);
