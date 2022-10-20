@@ -12,6 +12,7 @@ namespace CafeBoston.DATA
         public List<Product> Products { get; set; } = new List<Product>();
         public List<Order> ActiveOrders { get; set; } = new List<Order>();
         public List<Order> PastOrders { get; set; } = new List<Order>();
+        
 
     }
 }
